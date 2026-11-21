@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Lucas
+# 👋 Olá! Eu sou o Lucas Noe
 
 💻 **Analista de Dados | Formado em Sistemas para Internet | Desenvolvedor em formação**
 
